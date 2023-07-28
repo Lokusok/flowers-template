@@ -1,4 +1,4 @@
-## Вёрстка сайта [Flower Ukraine](https://www.figma.com/file/YtbZFSGKSfekKdSpisrVg4/Flowers-Ukraine?type=design&node-id=0-1&mode=design&t=J3v1hKPzAx9nHb8M-0)
+## Вёрстка сайта [Flowers Ukraine](https://www.figma.com/file/YtbZFSGKSfekKdSpisrVg4/Flowers-Ukraine?type=design&node-id=0-1&mode=design&t=J3v1hKPzAx9nHb8M-0)
 
 Тип сайта: **Интернет-магазин**
 
